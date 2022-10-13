@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de eduesf 😁
+## Bem-vindo(a) ao perfil de eduesf !!
   
  <div>
    <a href="https://github.com/eduesf">
