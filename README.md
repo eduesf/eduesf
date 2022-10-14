@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de eduesf !!
+## Bem-vindo(a) ao meu perfil !
   
  <div>
    <a href="https://github.com/eduesf">
@@ -16,7 +16,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Conecte-se comigo!
  
 <div> 
    <a href="https://www.linkedin.com/in/eduesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
