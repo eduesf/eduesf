@@ -2,11 +2,11 @@
 
 <p>
   <em>
-    Meu nome é Eduardo Fernandes, <strong>I'm a Front-end developer</strong>
+    Meu nome é Eduardo Fernandes, <strong>Front-end developer</strong>
   </em>
 </p>
   
- <div>
+ <div align="center">
    <a href="https://github.com/eduesf">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduesf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduesf&layout=compact&langs_count=6&theme=tokyonight"/>
