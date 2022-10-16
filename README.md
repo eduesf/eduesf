@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao meu perfil !
+<div align="center"> Bem-vindo(a) ao meu perfil ! </div>
 
-<p>
+<p align="center">
   <em>
-    Meu nome é Eduardo Fernandes, <strong>Front-end developer</strong>
+   Eduardo Fernandes, <strong>Front-end developer</strong>
   </em>
 </p>
   
@@ -18,8 +18,7 @@
  
  <br>
  
-  ### Conecte-se comigo!
- 
+
 <div align="center"> 
    <a href="https://www.linkedin.com/in/eduesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.com/channels/1007661709638512650/1013823304466964500" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
